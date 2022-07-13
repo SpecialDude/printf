@@ -1,3 +1,3 @@
 # printf
 
-Implementation of the C printf Function
+Implementation of the C printf Function by [Mike Seifu](https://github.com/mickyse06) [Warith Adeoti](https://github.com/SpecialDude)
