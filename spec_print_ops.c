@@ -76,3 +76,6 @@ int (*get_spec_op(char spec))(va_list)
 	return ((sp_ops + i)->func);
 
 }
+
+
+

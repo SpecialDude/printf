@@ -7,6 +7,8 @@ int _putchar(int c);
 int _printnumber(int num);
 int _printstr(char *str);
 int _printf(const char *format, ...);
+int convert_to_decimal(unsigned int num, unsigned int base);
+int convert_from_decimal(unsigned int decimal, unsigned int base);
 
 /**
  * struct spec_op - Specifier op functions
